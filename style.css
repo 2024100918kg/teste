@@ -98,17 +98,17 @@ main {
 }
 
 .conteudo {
-    background-color: #eeccccde;
+    background-color: #f8f4f4de;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 8px;
-    color: #e24646;
+    color: #3e3636;
 }
 
 .conteudo h2 {
     font-size: 1.8em;
     margin-bottom: 15px;
-    border-bottom: 2px solid #d4abab;
+    border-bottom: 2px solid #f4efef;
     padding-bottom: 5px;
 }
 
