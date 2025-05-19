@@ -3,10 +3,10 @@
 /* Variáveis */
 :root {
     --primary-color: #121211f3;
-    --secondary-color: #c9e673dc;
-    --text-color: #efe773a4;
+    --secondary-color: #e0edb7dc;
+    --text-color: #f2f0d7d5;
     --background-color: #9ae68ee0;
-    --button-hover: #0ac0837c;
+    --button-hover: #abf3db7c;
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
